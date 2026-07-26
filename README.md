@@ -16,7 +16,6 @@
 <div align="center">
 
 ![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md-7-10b981?style=classic)
-[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/official-design-md?label=Last%20update&style=classic)](https://github.com/VoltAgent/official-design-md)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
 </div>
@@ -44,8 +43,6 @@ Looking for ready-to-use DESIGN.md files extracted from real websites? Check out
 
 ## Collection
 
-> 🚧 The DESIGN.md standard is new — official adoption is just starting. Know a company or project that published one? [Open an issue](https://github.com/VoltAgent/official-design-md/issues) or send a PR.
-
 - [**Atlassian**](https://atlassian.design/DESIGN.md) - Maker of Jira and Confluence. Atlassian Design System — structured blue palette, enterprise clarity
 - [**Clerk**](https://clerk.com/design.md) - Auth and user management platform. Signature purple, brand system written for humans and AI agents
 - [**Mintlify**](https://mintlify.com/design.md) - Documentation platform. Token-driven design system, clean and reading-optimized
@@ -53,6 +50,8 @@ Looking for ready-to-use DESIGN.md files extracted from real websites? Check out
 - [**Resend**](https://resend.com/design.md) - Email API for developers. Minimal dark theme, monospace accents
 - [**Vercel**](https://vercel.com/design.md) - Frontend deployment platform. Geist design system — black and white precision, developer-first minimalism
 - [**VoltAgent**](https://github.com/VoltAgent/voltagent/blob/main/DESIGN.md) - AI agent framework. Void-black canvas, emerald accent, terminal-native
+
+The DESIGN.md standard is new and official adoption is growing. Spotted one in the wild? [Open an issue](https://github.com/VoltAgent/official-design-md/issues) or send a PR.
 
 ## How to Use
 
